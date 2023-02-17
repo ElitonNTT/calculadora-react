@@ -1,7 +1,8 @@
 Este é um projeto de calculadora simples criado usando ReactJS e CSS.
 
 Como rodar o projeto?
-1-Clone o repositório usando o comando git clone https://github.com/seu-usuario/nome-do-repositorio.git.
+
+1-Clone o repositório usando o comando git clone.
 
 2-Na pasta raiz do projeto, execute o comando npm install para instalar as dependências.
 
